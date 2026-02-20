@@ -1,0 +1,15 @@
+{
+  "name": "system_admin",
+  "version": "1.0.0",
+  "description": "CVALTIS System Setup & Admin",
+  "scripts": {
+    "build": "grunt",
+    "watch": "grunt watch"
+  },
+  "devDependencies": {
+    "grunt": "^1.6.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exec": "^3.0.0",
+    "sass": "^1.69.0"
+  }
+}
